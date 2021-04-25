@@ -1,5 +1,5 @@
 # Scott McKenzie
-[<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width = 20/>](https://twitter.com/sccmckenzie) [<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width = 20/>](https://www.linkedin.com/in/scott-mckenzie-9b877294/)
+[<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width = 20/>](https://twitter.com/sccmckenzie) [<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width = 20/>](https://www.linkedin.com/in/sccmckenzie/)
 <br>
 [sccm.io](https://sccm.io)
 
