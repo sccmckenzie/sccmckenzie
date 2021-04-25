@@ -1,7 +1,13 @@
-### Hi, I'm Scott! 👋
+## Scott McKenzie
+[<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width = 20/>](https://twitter.com/sccmckenzie) [<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width = 20/>](https://www.linkedin.com/in/scott-mckenzie-9b877294/)
+<br>
+[sccm.io](https://sccm.io)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%20&style=social&url=https%3A%2F%2Ftwitter.com%2Fsccmckenzie)
+I'm passionate about creating tools that make Data Science easier. 
 
-I'm passionate about creating tools that make Data Science easier.
+
+
 
 ### 📦 Packages
+
+![https://github.com/sccmckenzie/sift/blob/main/man/figures/logo.png](https://github.com/sccmckenzie/sift)
