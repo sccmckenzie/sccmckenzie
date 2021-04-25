@@ -10,4 +10,4 @@ I'm passionate about creating tools that make Data Science easier.
 
 ### 📦 Packages
 
-![https://github.com/sccmckenzie/sift/blob/main/man/figures/logo.png](https://github.com/sccmckenzie/sift)
+[<img src = "https://github.com/sccmckenzie/sift/blob/main/man/figures/logo.png" width = 200/>](https://github.com/sccmckenzie/sift)
