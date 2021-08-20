@@ -1,5 +1,7 @@
+# Scott McKenzie
 [<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width = 20/>](https://twitter.com/sccmckenzie) [<img src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width = 20/>](https://www.linkedin.com/in/sccmckenzie/)
 <br>
+[sccm.io](https://sccm.io)
 
 I'm passionate about creating tools that make Data Science easier. Most of my open-source work involves **R package development** - though I also enjoy [creating datasets](https://sccm.io/post/mopac-dataset/) & visualizations.
 
