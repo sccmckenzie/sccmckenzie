@@ -3,7 +3,7 @@
 <br>
 [sccm.io](https://sccm.io)
 
-I'm passionate about creating tools that make Data Science easier. Most of my open-source work involves **R package development** - though I also enjoy [creating datasets](https://sccm.io/post/mopac-dataset/) & visualizations.
+Most of my open-source work involves **R package development** - though I also enjoy [creating datasets](https://sccm.io/post/mopac-dataset/) & visualizations.
 
 ### 📦 Packages
 [<img src = "https://github.com/sccmckenzie/sift/blob/main/man/figures/logo.png" width = 125/>](https://github.com/sccmckenzie/sift)
